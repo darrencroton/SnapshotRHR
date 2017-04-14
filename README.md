@@ -5,6 +5,6 @@ Snapshot RHR will first activate the heart rate monitor and buzz once it has a l
 
 The lower half of the screen shows your RHR history via several pages, selectable with the up/down keys. The first page is a graph of every value stored. Subsequent pages show the day/date/time and value of each of these individually.
 
-Pressing and holding the up key will delete the last measured RHR history value in case you don’t want to keep it.
+Only one RHR value is recorded per session, so if you’re not happy just hit start again. If you want to record another to the history exit and restart the app. Pressing and holding the up key will delete the last measured RHR history value in case you don’t want it.
 
 Snapshot Watch can be downloaded to your device here: https://apps.garmin.com/en-US/apps/822d7f34-33d7-438c-8d03-01cd1affbb75.
