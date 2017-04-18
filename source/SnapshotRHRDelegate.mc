@@ -1,6 +1,6 @@
 using Toybox.WatchUi as Ui;
 
-class RHRDelegate extends Ui.BehaviorDelegate {
+class SnapshotRHRDelegate extends Ui.BehaviorDelegate {
 
     var parentView;
 

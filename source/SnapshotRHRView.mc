@@ -45,7 +45,7 @@ enum
 }
 
 
-class RHRView extends Ui.View {
+class SnapshotRHRView extends Ui.View {
 
 	var usePreferences = true;
 

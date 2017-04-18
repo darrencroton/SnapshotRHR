@@ -2,7 +2,7 @@ using Toybox.Application as App;
 using Toybox.WatchUi as Ui;
 
 
-class RHRApp extends App.AppBase {
+class SnapshotRHRApp extends App.AppBase {
 
     function initialize() {
         AppBase.initialize();
@@ -19,8 +19,8 @@ class RHRApp extends App.AppBase {
     // Return the initial view of your application here
     function getInitialView() {
 
-        var mainView = new RHRView();
-        var viewDelegate = new RHRDelegate(mainView);
+        var mainView = new SnapshotRHRView();
+        var viewDelegate = new SnapshotRHRDelegate(mainView);
         return [mainView, viewDelegate];
 
     }
