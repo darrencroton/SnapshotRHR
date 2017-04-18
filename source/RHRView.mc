@@ -60,9 +60,10 @@ class RHRView extends Ui.View {
 	var timerCOUNT;
 	var timerCOUNTmax;
     var page;
+	var maxpage;
     var thisSession;
 	var proFeatures;
-
+	
     var vibrateData1 = [new Attention.VibeProfile(100, 100),
                         new Attention.VibeProfile(100, 100),
                         new Attention.VibeProfile(100, 100)];
@@ -105,11 +106,16 @@ class RHRView extends Ui.View {
 				{ timerCOUNTmax = 5; }
 			else if (timerCOUNTmax > 300)
 				{ timerCOUNTmax = 300; }
+
+			maxpage = history.size()/pageSize;
+
 		}
 		else
 		{
 			timerCOUNTmax = 60;
+			maxpage = 4;
 		}
+
 		
         read_data();
         
@@ -139,7 +145,6 @@ class RHRView extends Ui.View {
 		dc.drawLine(0, 20, 215, 20);
 		dc.drawLine(0, 90, 215, 90);
 
-//        dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
         dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
 
         dc.drawText(107.5, 0, Gfx.FONT_SMALL, "Resting Heart Rate", Gfx.TEXT_JUSTIFY_CENTER);
@@ -155,7 +160,6 @@ class RHRView extends Ui.View {
 
         dc.drawText(155, 15, Gfx.FONT_NUMBER_HOT, RHR, Gfx.TEXT_JUSTIFY_CENTER);
 
-//        dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
         dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
 
 		if (page == 0) {
@@ -167,8 +171,9 @@ class RHRView extends Ui.View {
 			var minimum = 1000;
 			var maximum = 0;
 			var dataStr;
-
-			for (i = 0; i < history.size(); ++i) {
+			var historyLast = pageSize * maxpage;
+			
+			for (i = 0; i < historyLast; ++i) {
 
 				length = history[i].length();
 				dataStr = history[i].substring(length-3,length);
@@ -213,14 +218,14 @@ class RHRView extends Ui.View {
 			if (minimum < maximum) {
 			
 				dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
-				for (i = 0; i < plotVals.size()-1; ++i) {
+				for (i = 0; i < historyLast-1; ++i) {
 				
 	 				if(plotVals[i] != null && plotVals[i] > 0 && plotVals[i+1] != null && plotVals[i+1] > 0) {
 
 						var data1x, data1y, data2x, data2y;
 					
-						data1x = 153 * (plotVals.size()-1 - i).toFloat() / (plotVals.size()-1).toFloat();
-						data2x = 153 * (plotVals.size()-1 - (i+1)).toFloat() / (plotVals.size()-1).toFloat();
+						data1x = 153 * (historyLast-1 - i).toFloat() / (historyLast-1).toFloat();
+						data2x = 153 * (historyLast-1 - (i+1)).toFloat() / (historyLast-1).toFloat();
 						data1y = 55 * (1 - (plotVals[i] - minimum).toFloat() / (maximum - minimum).toFloat());
 						data2y = 55 * (1 - (plotVals[i+1] - minimum).toFloat() / (maximum - minimum).toFloat());
 
@@ -256,8 +261,6 @@ class RHRView extends Ui.View {
     	RHRval = 1000;
     	timerCOUNT = 0;
     	Attention.vibrate(vibrateData1);
-    	
-//    	Sys.println("push");
 
     }
 
@@ -266,10 +269,8 @@ class RHRView extends Ui.View {
     {
     
         page = page + 1;
-
-        if (page > history.size()/pageSize) {
-            page = 0;
-        }
+		if (page > maxpage) 
+			{ page = 0; }
 
     }
 
@@ -278,10 +279,8 @@ class RHRView extends Ui.View {
     {
     
         page = page - 1;
-
-        if (page < 0) {
-            page = history.size()/pageSize;
-        }
+        if (page < 0) 
+        	{ page = maxpage; }
 
     }
 
