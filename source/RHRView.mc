@@ -61,6 +61,7 @@ class RHRView extends Ui.View {
 	var timerCOUNTmax;
     var page;
     var thisSession;
+	var proFeatures;
 
     var vibrateData1 = [new Attention.VibeProfile(100, 100),
                         new Attention.VibeProfile(100, 100),
@@ -83,22 +84,33 @@ class RHRView extends Ui.View {
     	RHRval = 1000;
     	timerGO = false;
     	timerCOUNT = 0;
-    	timerCOUNTmax = 60;
+    	timerCOUNTmax = 60;  // default
         page = 0;
         thisSession = false;
-
+		var code = "0";
+		
 		if (usePreferences) 
 		{
+			code = Application.getApp().getProperty("code");
 			timerCOUNTmax = Application.getApp().getProperty("timerCOUNTmax");
 		}
-		
-		if (timerCOUNTmax == null)
-			{ timerCOUNTmax = 60; }
-		else if (timerCOUNTmax < 5)
-			{ timerCOUNTmax = 5; }
-		else if (timerCOUNTmax > 300)
-			{ timerCOUNTmax = 300; }
 
+		authenticate(code);
+
+		if (proFeatures)
+		{
+			if (timerCOUNTmax == null)
+				{ timerCOUNTmax = 60; }
+			else if (timerCOUNTmax < 5)
+				{ timerCOUNTmax = 5; }
+			else if (timerCOUNTmax > 300)
+				{ timerCOUNTmax = 300; }
+		}
+		else
+		{
+			timerCOUNTmax = 60;
+		}
+		
         read_data();
         
     }
@@ -119,8 +131,8 @@ class RHRView extends Ui.View {
     // Update the view
     function onUpdate(dc) {
 
-//        dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_WHITE);
-        dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
+//		dc.setColor(Gfx.COLOR_DK_GRAY, Gfx.COLOR_DK_GRAY);
+		dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
         dc.clear();
 
 		dc.setColor(Gfx.COLOR_DK_GRAY, Gfx.COLOR_TRANSPARENT);
@@ -463,5 +475,16 @@ class RHRView extends Ui.View {
     // memory.
     function onHide() {    
     }
+
+
+	function authenticate(code) {
+
+		proFeatures = true;
+
+		// set proFeatures=false
+		// insert your authentication requirements here
+		// then change proFeatures=true if "code" variable is valid
+
+	}
 
 }

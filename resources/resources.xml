@@ -1,14 +1,19 @@
 <resources>
 
 	<properties>
+		<property id="code" type="string">0</property>
 		<property id="timerCOUNTmax" type="number">60</property>
 	</properties>
 
 	<strings>
-		<string id="TimerCOUNTmaxLabel">Length of timer in seconds (between 5 and 300)</string>
+		<string id="CodeLabel">Activation code for PRO features</string>
+		<string id="TimerCOUNTmaxLabel">[PRO] Length of timer in seconds (between 5 and 300, default 60)</string>
 	</strings>
 
 	<settings>
+		<setting propertyKey="@Properties.code" title="@Strings.CodeLabel">
+			<settingConfig type="alphaNumeric" />
+		</setting>
 		<setting propertyKey="@Properties.timerCOUNTmax" title="@Strings.TimerCOUNTmaxLabel">
 			<settingConfig type="numeric" />
 		</setting>

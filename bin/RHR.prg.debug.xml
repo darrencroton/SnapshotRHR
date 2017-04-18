@@ -1,255 +1,262 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="75" pc="268435456" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="77" pc="268435460" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="78" pc="268435502" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="80" pc="268435534" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="81" pc="268435547" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="82" pc="268435557" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="83" pc="268435570" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="84" pc="268435583" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="85" pc="268435593" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="86" pc="268435606" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="87" pc="268435619" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="88" pc="268435632" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="76" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="78" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="79" pc="268435502" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="81" pc="268435534" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="82" pc="268435547" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="83" pc="268435557" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="84" pc="268435570" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="85" pc="268435583" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="86" pc="268435593" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="87" pc="268435606" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="88" pc="268435619" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="89" pc="268435632" symbol="initialize"/>
 <entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="90" pc="268435642" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="92" pc="268435653" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="95" pc="268435695" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="96" pc="268435708" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="98" pc="268435741" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="100" pc="268435774" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="102" pc="268435790" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="108" pc="268435803" symbol="onLayout"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="115" pc="268435808" symbol="onShow"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="120" pc="268435813" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="123" pc="268435817" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="124" pc="268435853" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="126" pc="268435865" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="127" pc="268435901" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="128" pc="268435933" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="131" pc="268435965" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="133" pc="268436001" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="135" pc="268436052" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="136" pc="268436103" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="138" pc="268436154" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="140" pc="268436208" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="141" pc="268436242" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="144" pc="268436281" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="147" pc="268436335" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="149" pc="268436371" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="151" pc="268436388" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="152" pc="268436405" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="153" pc="268436425" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="155" pc="268436425" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="156" pc="268436432" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="157" pc="268436439" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="159" pc="268436439" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="161" pc="268436469" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="162" pc="268436491" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="164" pc="268436523" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="166" pc="268436542" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="170" pc="268436555" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="172" pc="268436571" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="173" pc="268436582" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="176" pc="268436592" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="177" pc="268436603" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="183" pc="268436626" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="184" pc="268436651" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="185" pc="268436686" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="187" pc="268436746" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="188" pc="268436797" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="190" pc="268436848" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="191" pc="268436856" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="192" pc="268436910" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="194" pc="268436967" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="195" pc="268437018" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="198" pc="268437069" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="199" pc="268437079" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="201" pc="268437089" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="203" pc="268437097" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="204" pc="268437133" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="206" pc="268437163" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="208" pc="268437232" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="210" pc="268437232" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="211" pc="268437296" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="212" pc="268437366" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="213" pc="268437412" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="215" pc="268437464" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="225" pc="268437530" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="227" pc="268437581" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="228" pc="268437588" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="229" pc="268437595" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="230" pc="268437620" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="231" pc="268437713" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="232" pc="268437812" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="233" pc="268437911" symbol="onUpdate"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="240" pc="268438011" symbol="StartTimer"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="243" pc="268438015" symbol="StartTimer"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="244" pc="268438025" symbol="StartTimer"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="245" pc="268438038" symbol="StartTimer"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="246" pc="268438051" symbol="StartTimer"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="253" pc="268438076" symbol="NextPage"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="256" pc="268438080" symbol="NextPage"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="258" pc="268438102" symbol="NextPage"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="259" pc="268438140" symbol="NextPage"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="265" pc="268438157" symbol="PreviousPage"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="268" pc="268438161" symbol="PreviousPage"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="270" pc="268438183" symbol="PreviousPage"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="271" pc="268438200" symbol="PreviousPage"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="277" pc="268438238" symbol="ResetHistory"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="279" pc="268438242" symbol="ResetHistory"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="281" pc="268438242" symbol="ResetHistory"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="282" pc="268438278" symbol="ResetHistory"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="284" pc="268438319" symbol="ResetHistory"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="286" pc="268438356" symbol="ResetHistory"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="287" pc="268438369" symbol="ResetHistory"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="288" pc="268438382" symbol="ResetHistory"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="294" pc="268438392" symbol="ResetHistory"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="295" pc="268438404" symbol="ResetHistory"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="297" pc="268438432" symbol="ResetHistory"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="301" pc="268438445" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="303" pc="268438449" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="305" pc="268438462" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="306" pc="268438476" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="307" pc="268438486" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="310" pc="268438513" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="312" pc="268438538" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="315" pc="268438552" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="317" pc="268438574" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="319" pc="268438594" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="320" pc="268438610" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="323" pc="268438629" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="325" pc="268438649" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="326" pc="268438659" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="327" pc="268438683" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="334" pc="268438704" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="335" pc="268438717" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="338" pc="268438727" symbol="onSensor"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="342" pc="268438744" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="344" pc="268438748" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="346" pc="268438748" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="347" pc="268438762" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="348" pc="268438798" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="350" pc="268438839" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="353" pc="268438852" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="354" pc="268438896" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="356" pc="268438940" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="358" pc="268439018" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="359" pc="268439018" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="360" pc="268439044" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="362" pc="268439109" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="365" pc="268439171" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="366" pc="268439211" symbol="record_date"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="371" pc="268439224" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="373" pc="268439228" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="375" pc="268439228" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="377" pc="268439245" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="378" pc="268439278" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="379" pc="268439311" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="380" pc="268439344" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="381" pc="268439377" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="382" pc="268439410" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="383" pc="268439443" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="384" pc="268439476" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="385" pc="268439509" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="386" pc="268439542" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="387" pc="268439575" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="388" pc="268439608" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="389" pc="268439641" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="390" pc="268439674" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="391" pc="268439707" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="392" pc="268439740" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="393" pc="268439773" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="394" pc="268439806" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="395" pc="268439839" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="396" pc="268439872" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="397" pc="268439905" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="398" pc="268439938" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="399" pc="268439971" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="400" pc="268440004" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="401" pc="268440037" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="402" pc="268440070" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="403" pc="268440103" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="404" pc="268440136" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="405" pc="268440169" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="406" pc="268440202" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="407" pc="268440235" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="408" pc="268440268" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="410" pc="268440301" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="412" pc="268440331" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="413" pc="268440347" symbol="read_data"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="421" pc="268440380" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="423" pc="268440384" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="425" pc="268440401" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="426" pc="268440435" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="427" pc="268440469" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="428" pc="268440503" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="429" pc="268440537" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="430" pc="268440571" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="431" pc="268440605" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="432" pc="268440639" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="433" pc="268440673" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="434" pc="268440707" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="435" pc="268440741" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="436" pc="268440775" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="437" pc="268440809" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="438" pc="268440843" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="439" pc="268440877" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="440" pc="268440911" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="441" pc="268440945" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="442" pc="268440979" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="443" pc="268441013" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="444" pc="268441047" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="445" pc="268441081" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="446" pc="268441115" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="447" pc="268441149" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="448" pc="268441183" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="449" pc="268441217" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="450" pc="268441251" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="451" pc="268441285" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="452" pc="268441319" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="453" pc="268441353" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="454" pc="268441387" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="455" pc="268441421" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="456" pc="268441455" symbol="copy_history"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="464" pc="268441490" symbol="onHide"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="7" pc="268441495" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="8" pc="268441499" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="11" pc="268441510" symbol="onSelect"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="12" pc="268441514" symbol="onSelect"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="15" pc="268441533" symbol="onNextPage"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="16" pc="268441537" symbol="onNextPage"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="19" pc="268441556" symbol="onPreviousPage"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="20" pc="268441560" symbol="onPreviousPage"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="23" pc="268441579" symbol="onMenu"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="24" pc="268441583" symbol="onMenu"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="7" pc="268441602" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="8" pc="268441606" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="12" pc="268441625" symbol="onStart"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="16" pc="268441630" symbol="onStop"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="20" pc="268441635" symbol="getInitialView"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="22" pc="268441639" symbol="getInitialView"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="23" pc="268441663" symbol="getInitialView"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="24" pc="268441689" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="19" pc="268441717" symbol="MainLayout"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="92" pc="268435649" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="94" pc="268435660" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="95" pc="268435693" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="98" pc="268435735" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="100" pc="268435749" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="102" pc="268435760" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="103" pc="268435773" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="105" pc="268435806" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="107" pc="268435839" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="111" pc="268435858" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="114" pc="268435871" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="120" pc="268435884" symbol="onLayout"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="127" pc="268435889" symbol="onShow"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="132" pc="268435894" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="135" pc="268435898" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="136" pc="268435934" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="138" pc="268435946" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="139" pc="268435982" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="140" pc="268436014" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="143" pc="268436046" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="145" pc="268436082" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="147" pc="268436133" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="148" pc="268436184" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="150" pc="268436235" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="152" pc="268436289" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="153" pc="268436323" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="156" pc="268436362" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="159" pc="268436416" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="161" pc="268436452" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="163" pc="268436469" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="164" pc="268436486" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="165" pc="268436506" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="167" pc="268436506" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="168" pc="268436513" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="169" pc="268436520" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="171" pc="268436520" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="173" pc="268436550" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="174" pc="268436572" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="176" pc="268436604" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="178" pc="268436623" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="182" pc="268436636" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="184" pc="268436652" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="185" pc="268436663" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="188" pc="268436673" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="189" pc="268436684" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="195" pc="268436707" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="196" pc="268436732" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="197" pc="268436767" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="199" pc="268436827" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="200" pc="268436878" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="202" pc="268436929" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="203" pc="268436937" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="204" pc="268436991" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="206" pc="268437048" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="207" pc="268437099" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="210" pc="268437150" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="211" pc="268437160" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="213" pc="268437170" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="215" pc="268437178" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="216" pc="268437214" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="218" pc="268437244" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="220" pc="268437313" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="222" pc="268437313" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="223" pc="268437377" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="224" pc="268437447" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="225" pc="268437493" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="227" pc="268437545" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="237" pc="268437611" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="239" pc="268437662" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="240" pc="268437669" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="241" pc="268437676" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="242" pc="268437701" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="243" pc="268437794" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="244" pc="268437893" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="245" pc="268437992" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="252" pc="268438092" symbol="StartTimer"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="255" pc="268438096" symbol="StartTimer"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="256" pc="268438106" symbol="StartTimer"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="257" pc="268438119" symbol="StartTimer"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="258" pc="268438132" symbol="StartTimer"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="265" pc="268438157" symbol="NextPage"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="268" pc="268438161" symbol="NextPage"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="270" pc="268438183" symbol="NextPage"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="271" pc="268438221" symbol="NextPage"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="277" pc="268438238" symbol="PreviousPage"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="280" pc="268438242" symbol="PreviousPage"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="282" pc="268438264" symbol="PreviousPage"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="283" pc="268438281" symbol="PreviousPage"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="289" pc="268438319" symbol="ResetHistory"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="291" pc="268438323" symbol="ResetHistory"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="293" pc="268438323" symbol="ResetHistory"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="294" pc="268438359" symbol="ResetHistory"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="296" pc="268438400" symbol="ResetHistory"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="298" pc="268438437" symbol="ResetHistory"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="299" pc="268438450" symbol="ResetHistory"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="300" pc="268438463" symbol="ResetHistory"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="306" pc="268438473" symbol="ResetHistory"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="307" pc="268438485" symbol="ResetHistory"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="309" pc="268438513" symbol="ResetHistory"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="313" pc="268438526" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="315" pc="268438530" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="317" pc="268438543" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="318" pc="268438557" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="319" pc="268438567" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="322" pc="268438594" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="324" pc="268438619" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="327" pc="268438633" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="329" pc="268438655" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="331" pc="268438675" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="332" pc="268438691" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="335" pc="268438710" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="337" pc="268438730" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="338" pc="268438740" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="339" pc="268438764" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="346" pc="268438785" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="347" pc="268438798" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="350" pc="268438808" symbol="onSensor"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="354" pc="268438825" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="356" pc="268438829" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="358" pc="268438829" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="359" pc="268438843" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="360" pc="268438879" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="362" pc="268438920" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="365" pc="268438933" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="366" pc="268438977" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="368" pc="268439021" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="370" pc="268439099" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="371" pc="268439099" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="372" pc="268439125" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="374" pc="268439190" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="377" pc="268439252" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="378" pc="268439292" symbol="record_date"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="383" pc="268439305" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="385" pc="268439309" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="387" pc="268439309" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="389" pc="268439326" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="390" pc="268439359" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="391" pc="268439392" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="392" pc="268439425" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="393" pc="268439458" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="394" pc="268439491" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="395" pc="268439524" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="396" pc="268439557" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="397" pc="268439590" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="398" pc="268439623" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="399" pc="268439656" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="400" pc="268439689" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="401" pc="268439722" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="402" pc="268439755" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="403" pc="268439788" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="404" pc="268439821" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="405" pc="268439854" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="406" pc="268439887" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="407" pc="268439920" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="408" pc="268439953" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="409" pc="268439986" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="410" pc="268440019" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="411" pc="268440052" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="412" pc="268440085" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="413" pc="268440118" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="414" pc="268440151" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="415" pc="268440184" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="416" pc="268440217" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="417" pc="268440250" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="418" pc="268440283" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="419" pc="268440316" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="420" pc="268440349" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="422" pc="268440382" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="424" pc="268440412" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="425" pc="268440428" symbol="read_data"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="433" pc="268440461" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="435" pc="268440465" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="437" pc="268440482" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="438" pc="268440516" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="439" pc="268440550" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="440" pc="268440584" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="441" pc="268440618" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="442" pc="268440652" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="443" pc="268440686" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="444" pc="268440720" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="445" pc="268440754" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="446" pc="268440788" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="447" pc="268440822" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="448" pc="268440856" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="449" pc="268440890" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="450" pc="268440924" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="451" pc="268440958" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="452" pc="268440992" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="453" pc="268441026" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="454" pc="268441060" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="455" pc="268441094" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="456" pc="268441128" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="457" pc="268441162" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="458" pc="268441196" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="459" pc="268441230" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="460" pc="268441264" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="461" pc="268441298" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="462" pc="268441332" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="463" pc="268441366" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="464" pc="268441400" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="465" pc="268441434" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="466" pc="268441468" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="467" pc="268441502" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="468" pc="268441536" symbol="copy_history"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="476" pc="268441571" symbol="onHide"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="480" pc="268441576" symbol="authenticate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRView.mc" lineNum="482" pc="268441580" symbol="authenticate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="7" pc="268441591" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="8" pc="268441595" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="11" pc="268441606" symbol="onSelect"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="12" pc="268441610" symbol="onSelect"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="15" pc="268441629" symbol="onNextPage"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="16" pc="268441633" symbol="onNextPage"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="19" pc="268441652" symbol="onPreviousPage"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="20" pc="268441656" symbol="onPreviousPage"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="23" pc="268441675" symbol="onMenu"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRDelegate.mc" lineNum="24" pc="268441679" symbol="onMenu"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="7" pc="268441698" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="8" pc="268441702" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="12" pc="268441721" symbol="onStart"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="16" pc="268441726" symbol="onStop"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="20" pc="268441731" symbol="getInitialView"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="22" pc="268441735" symbol="getInitialView"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="23" pc="268441759" symbol="getInitialView"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/RHR/source/RHRApp.mc" lineNum="24" pc="268441785" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="20" pc="268441813" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
-<entry field="true" id="69" symbol="TimerCOUNTmaxLabel"/>
+<entry field="true" id="71" symbol="TimerCOUNTmaxLabel"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry field="true" id="50" symbol="timerGO"/>
 <entry field="true" id="53" symbol="page"/>
 <entry field="true" id="54" symbol="thisSession"/>
-<entry field="true" id="71" symbol="parentView"/>
+<entry field="true" id="74" symbol="parentView"/>
 <entry field="true" id="52" symbol="timerCOUNTmax"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
 <entry id="8388645" symbol="Time"/>
 <entry id="8389619" method="true" symbol="onSelect"/>
-<entry id="62" method="true" symbol="record_date"/>
+<entry id="63" method="true" symbol="record_date"/>
 <entry field="true" id="39" symbol="HISTORY31"/>
 <entry field="true" id="38" symbol="HISTORY30"/>
-<entry field="true" id="56" symbol="vibrateData2"/>
-<entry field="true" id="55" symbol="vibrateData1"/>
+<entry field="true" id="57" symbol="vibrateData2"/>
+<entry field="true" id="56" symbol="vibrateData1"/>
 <entry field="true" id="37" symbol="HISTORY29"/>
 <entry field="true" id="36" symbol="HISTORY28"/>
 <entry field="true" id="35" symbol="HISTORY27"/>
@@ -272,36 +279,38 @@
 <entry field="true" id="19" symbol="HISTORY11"/>
 <entry field="true" id="18" symbol="HISTORY10"/>
 <entry id="8388643" symbol="Sensor"/>
-<entry id="57" method="true" symbol="StartTimer"/>
+<entry id="58" method="true" symbol="StartTimer"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry field="true" id="46" symbol="HR"/>
-<entry id="68" method="true" symbol="MainLayout"/>
-<entry id="61" method="true" symbol="onSensor"/>
+<entry id="70" method="true" symbol="MainLayout"/>
+<entry id="62" method="true" symbol="onSensor"/>
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
+<entry id="66" method="true" symbol="authenticate"/>
 <entry id="8388636" symbol="Attention"/>
 <entry id="44" symbol="history"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="70" symbol="AppName"/>
-<entry id="63" method="true" symbol="read_data"/>
+<entry field="true" id="73" symbol="AppName"/>
+<entry id="64" method="true" symbol="read_data"/>
 <entry field="true" id="49" symbol="RHRval"/>
 <entry id="40" object="true" symbol="RHRView"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
 <entry field="true" id="47" symbol="haveHR"/>
 <entry id="8389078" method="true" symbol="onNextPage"/>
 <entry field="true" id="43" symbol="usePreferences"/>
-<entry id="58" method="true" symbol="NextPage"/>
-<entry field="true" id="67" symbol="LauncherIcon"/>
+<entry id="59" method="true" symbol="NextPage"/>
+<entry field="true" id="69" symbol="LauncherIcon"/>
 <entry id="41" object="true" symbol="RHRDelegate"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry id="59" method="true" symbol="PreviousPage"/>
+<entry id="60" method="true" symbol="PreviousPage"/>
+<entry field="true" id="72" symbol="CodeLabel"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry field="true" id="48" symbol="RHR"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="64" method="true" symbol="copy_history"/>
+<entry id="65" method="true" symbol="copy_history"/>
 <entry field="true" id="51" symbol="timerCOUNT"/>
-<entry id="66" module="true" symbol="Layouts"/>
+<entry id="68" module="true" symbol="Layouts"/>
 <entry id="8389079" method="true" symbol="onPreviousPage"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="42" object="true" symbol="RHRApp"/>
@@ -315,37 +324,39 @@
 <entry field="true" id="10" symbol="HISTORY2"/>
 <entry field="true" id="9" symbol="HISTORY1"/>
 <entry field="true" id="8" symbol="HISTORY0"/>
-<entry id="65" module="true" symbol="Menus"/>
-<entry id="60" method="true" symbol="ResetHistory"/>
+<entry id="67" module="true" symbol="Menus"/>
+<entry id="61" method="true" symbol="ResetHistory"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
 <entry id="45" symbol="pageSize"/>
+<entry field="true" id="55" symbol="proFeatures"/>
 </symbolTable>
 <localVars>
-<entry endPc="268437508" name="data1x" stackId="9" startPc="268437232"/>
-<entry endPc="268437508" name="data2y" stackId="12" startPc="268437232"/>
-<entry endPc="268437508" name="data2x" stackId="11" startPc="268437232"/>
-<entry endPc="268437508" name="data1y" stackId="10" startPc="268437232"/>
-<entry endPc="268437527" name="dataStr" stackId="8" startPc="268436388"/>
-<entry endPc="268437527" name="i" stackId="3" startPc="268436388"/>
-<entry endPc="268437527" name="length" stackId="4" startPc="268436388"/>
-<entry endPc="268437527" name="minimum" stackId="6" startPc="268436388"/>
-<entry endPc="268437527" name="value" stackId="5" startPc="268436388"/>
-<entry endPc="268437527" name="plotVals" stackId="2" startPc="268436388"/>
-<entry endPc="268437527" name="maximum" stackId="7" startPc="268436388"/>
-<entry endPc="268438010" name="ystart" stackId="14" startPc="268437530"/>
-<entry endPc="268438010" name="shift" stackId="13" startPc="268437530"/>
-<entry endPc="268438010" name="i" stackId="15" startPc="268437530"/>
-<entry endPc="268438444" name="i" stackId="1" startPc="268438242"/>
-<entry endPc="268439223" name="dateStr" stackId="4" startPc="268438748"/>
-<entry endPc="268439223" name="infoL" stackId="3" startPc="268438748"/>
-<entry endPc="268439223" name="i" stackId="1" startPc="268438748"/>
-<entry endPc="268439223" name="infoS" stackId="2" startPc="268438748"/>
-<entry endPc="268439223" name="timeStr" stackId="5" startPc="268438748"/>
-<entry endPc="268440379" name="i" stackId="1" startPc="268439228"/>
-<entry endPc="268440379" name="app" stackId="2" startPc="268439228"/>
-<entry endPc="268441489" name="app" stackId="1" startPc="268440384"/>
-<entry endPc="268441716" name="mainView" stackId="1" startPc="268441639"/>
-<entry endPc="268441716" name="viewDelegate" stackId="2" startPc="268441639"/>
+<entry endPc="268435883" name="code" stackId="1" startPc="268435460"/>
+<entry endPc="268437589" name="data1x" stackId="9" startPc="268437313"/>
+<entry endPc="268437589" name="data2y" stackId="12" startPc="268437313"/>
+<entry endPc="268437589" name="data2x" stackId="11" startPc="268437313"/>
+<entry endPc="268437589" name="data1y" stackId="10" startPc="268437313"/>
+<entry endPc="268437608" name="dataStr" stackId="8" startPc="268436469"/>
+<entry endPc="268437608" name="i" stackId="3" startPc="268436469"/>
+<entry endPc="268437608" name="length" stackId="4" startPc="268436469"/>
+<entry endPc="268437608" name="minimum" stackId="6" startPc="268436469"/>
+<entry endPc="268437608" name="value" stackId="5" startPc="268436469"/>
+<entry endPc="268437608" name="plotVals" stackId="2" startPc="268436469"/>
+<entry endPc="268437608" name="maximum" stackId="7" startPc="268436469"/>
+<entry endPc="268438091" name="ystart" stackId="14" startPc="268437611"/>
+<entry endPc="268438091" name="shift" stackId="13" startPc="268437611"/>
+<entry endPc="268438091" name="i" stackId="15" startPc="268437611"/>
+<entry endPc="268438525" name="i" stackId="1" startPc="268438323"/>
+<entry endPc="268439304" name="dateStr" stackId="4" startPc="268438829"/>
+<entry endPc="268439304" name="infoL" stackId="3" startPc="268438829"/>
+<entry endPc="268439304" name="i" stackId="1" startPc="268438829"/>
+<entry endPc="268439304" name="infoS" stackId="2" startPc="268438829"/>
+<entry endPc="268439304" name="timeStr" stackId="5" startPc="268438829"/>
+<entry endPc="268440460" name="i" stackId="1" startPc="268439309"/>
+<entry endPc="268440460" name="app" stackId="2" startPc="268439309"/>
+<entry endPc="268441570" name="app" stackId="1" startPc="268440465"/>
+<entry endPc="268441812" name="mainView" stackId="1" startPc="268441735"/>
+<entry endPc="268441812" name="viewDelegate" stackId="2" startPc="268441735"/>
 </localVars>
 <annotations/>
 <functions>
@@ -389,6 +400,10 @@
 <documentation/>
 </functionEntry>
 <functionEntry name="onHide" parent="RHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="authenticate" parent="RHRView">
+<param id="code"/>
 <documentation/>
 </functionEntry>
 <functionEntry name="initialize" parent="RHRDelegate">
