@@ -107,8 +107,7 @@ class RHRView extends Ui.View {
 			else if (timerCOUNTmax > 300)
 				{ timerCOUNTmax = 300; }
 
-			maxpage = history.size()/pageSize;
-
+			maxpage = (history.size()/pageSize).toNumber();
 		}
 		else
 		{
