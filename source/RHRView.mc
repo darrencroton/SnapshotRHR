@@ -47,6 +47,8 @@ enum
 
 class RHRView extends Ui.View {
 
+	var usePreferences = true;
+
 	hidden var history = new [32];
     hidden var pageSize = 4;
 
@@ -84,6 +86,18 @@ class RHRView extends Ui.View {
     	timerCOUNTmax = 60;
         page = 0;
         thisSession = false;
+
+		if (usePreferences) 
+		{
+			timerCOUNTmax = Application.getApp().getProperty("timerCOUNTmax");
+		}
+		
+		if (timerCOUNTmax == null)
+			{ timerCOUNTmax = 60; }
+		else if (timerCOUNTmax < 5)
+			{ timerCOUNTmax = 5; }
+		else if (timerCOUNTmax > 300)
+			{ timerCOUNTmax = 300; }
 
         read_data();
         
