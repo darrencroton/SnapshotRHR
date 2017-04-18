@@ -1,0 +1,17 @@
+<resources>
+
+	<properties>
+		<property id="timerCOUNTmax" type="number">60</property>
+	</properties>
+
+	<strings>
+		<string id="TimerCOUNTmaxLabel">Length of timer in seconds (between 5 and 300)</string>
+	</strings>
+
+	<settings>
+		<setting propertyKey="@Properties.timerCOUNTmax" title="@Strings.TimerCOUNTmaxLabel">
+			<settingConfig type="numeric" />
+		</setting>
+	</settings>
+
+</resources>
