@@ -112,10 +112,9 @@ class RHRView extends Ui.View {
 		else
 		{
 			timerCOUNTmax = 60;
-			maxpage = 4;
+			maxpage = 3;
 		}
 
-		
         read_data();
         
     }
